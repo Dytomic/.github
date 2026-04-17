@@ -19,7 +19,9 @@
 
 ### Tales of Pirates / PKO Research Archive
 
-Pirate Raids Online was initially conceived on top of the legacy Tales of Pirates (TOP) / Pirate King Online (PKO) engine. As the project evolved, the vision departed substantially from those roots and the studio ultimately dropped the TOP engine entirely in favour of building its own in-house engine. The research below documents that early-phase engine investigation, preserved as a public reference.
+Independent research archive preserved by Dytomic covering the Tales of Pirates (TOP) / Pirate King Online (PKO) engine family and its long-running community modification ecosystem. Maintained as a public reference for researchers of legacy MMORPG engines and private-server communities.
+
+> **Note:** Pirate Raids Online is built on Dytomic's own in-house engine. It is not derived from, nor technically based on, the Tales of Pirates or PKO engine. This archive exists as independent research and preservation work.
 
 | Repository | What it is |
 |---|---|
