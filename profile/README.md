@@ -6,12 +6,23 @@
 
 ## What's here
 
+### Pirate Raids Online
+
 | Repository | What it is |
 |---|---|
 | [pro-web](https://github.com/Dytomic/pro-web) | Official marketing website for Pirate Raids Online. Next.js 12 + React 18 + React Bootstrap + CSS Modules. |
 | [pro-splash](https://github.com/Dytomic/pro-splash) | Early splash page for PRO, linking to social media. React with iOS-tuned absolute positioning to work around Safari quirks. |
 | [ariel](https://github.com/Dytomic/ariel) | Facebook Messenger chatbot for Dytomic's page, engaging visitors about job opportunities and Pirate Raids Online. Named in memory of a co-founder's beloved dog. |
 | [ball-simulation](https://github.com/Dytomic/ball-simulation) | Live technical interview starter for game-developer candidates. A browser-based physics sandbox with a deliberately stubbed `checkCollisions()` call that candidates extended under time pressure. |
+
+### Tales of Pirates / PKO Research
+
+Monorepo mirrors of open-source Tales of Pirates (TOP) and Pirate King Online (PKO) projects, maintained as git subtrees for upstream sync.
+
+| Repository | What it is |
+|---|---|
+| [pkodev-V3ct0r1024](https://github.com/Dytomic/pkodev-V3ct0r1024) | 42 client mods, server plugins, and tools by V3ct0r1024 — mod loader, 60fps, anti-bot, offline stall server, GM tools, and more. |
+| [pkodev-Perseus](https://github.com/Dytomic/pkodev-Perseus) | Server infrastructure and CMS projects by Perseus — GateServer rewrite (Rust), DDoS proxy, Go comms interface, Laravel player portal, and JS CMS. |
 
 ## About Pirate Raids Online
 
