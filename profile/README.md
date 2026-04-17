@@ -45,7 +45,7 @@ The full product vision, story, and visual language lives in the [pro-web reposi
 
 ## Team
 
-Dytomic was co-founded by [Tommy Roumanas](https://www.linkedin.com/in/tommy-roumanas) (CEO) and [Mourad Elsheraey](https://www.linkedin.com/in/mourad-elsheraey) (CTO, Board Member) alongside other founding members. Tommy drove strategic direction and operations from 2021 until the studio's closure. Mourad drove the technical direction from 2021 through early 2024. Full team credits are preserved on the [archive site](https://dytomic.github.io/#contributions).
+Dytomic was co-founded by [Tommy Roumanas](https://www.linkedin.com/in/tommy-roumanas) (CEO) and [Mourad Elsheraey](https://www.linkedin.com/in/mourad-elsheraey) (CTO) alongside other founding members. Tommy drove strategic direction and operations from 2021 until the studio's closure. Mourad drove the technical direction from 2021 through early 2024. Full team credits are preserved on the [archive site](https://dytomic.github.io/#contributions).
 
 ## Why this profile exists
 
