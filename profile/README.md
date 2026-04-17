@@ -25,15 +25,15 @@ Independent research archive preserved by Dytomic covering the Tales of Pirates 
 
 | Repository | What it is |
 |---|---|
-| [pkodev-V3ct0r1024](https://github.com/Dytomic/pkodev-V3ct0r1024) | 42 client mods, server plugins, and tools by V3ct0r1024 mirrored as git subtrees — mod loader, 60fps, anti-bot, offline stall server, GM tools, and more. |
-| [pkodev-Perseus](https://github.com/Dytomic/pkodev-Perseus) | Server infrastructure and CMS projects by Perseus mirrored as git subtrees — GateServer rewrite (Rust), DDoS proxy, Go comms interface, Laravel player portal, and JS CMS. |
-| [top-forums-archive](https://github.com/Dytomic/top-forums-archive) | Preserved snapshots of three TOP/PKO community forums — pkodev.com (166 threads), forum.ragezone.com (1,350 threads), and go-piratia.ru (167 threads). Original HTML + Markdown. [Browse](https://dytomic.github.io/top-forums-archive/). |
+| [pkodev-V3ct0r1024](https://github.com/Dytomic/pkodev-V3ct0r1024) | 42 client mods, server plugins, and tools by V3ct0r1024 mirrored as git subtrees: mod loader, 60fps, anti-bot, offline stall server, GM tools, and more. |
+| [pkodev-Perseus](https://github.com/Dytomic/pkodev-Perseus) | Server infrastructure and CMS projects by Perseus mirrored as git subtrees: GateServer rewrite (Rust), DDoS proxy, Go comms interface, Laravel player portal, and JS CMS. |
+| [top-forums-archive](https://github.com/Dytomic/top-forums-archive) | Preserved snapshots of three TOP/PKO community forums: pkodev.com (166 threads), forum.ragezone.com (1,350 threads), and go-piratia.ru (167 threads). Original HTML + Markdown. [Browse](https://dytomic.github.io/top-forums-archive/). |
 
 ### Org Archive Site
 
 | Repository | What it is |
 |---|---|
-| [Dytomic.github.io](https://github.com/Dytomic/Dytomic.github.io) | Source for [dytomic.github.io](https://dytomic.github.io/) — the single-page public archive of the studio, linking to all of the above. |
+| [Dytomic.github.io](https://github.com/Dytomic/Dytomic.github.io) | Source for [dytomic.github.io](https://dytomic.github.io/), the single-page public archive of the studio, linking to all of the above. |
 
 ## About Pirate Raids Online
 
@@ -49,12 +49,12 @@ Dytomic was co-founded by [Tommy Roumanas](https://www.linkedin.com/in/tommy-rou
 
 ## Available Expertise
 
-Throughout the studio's operation, Dytomic built **deep practical expertise using AI to streamline art delivery** — accelerating concept iteration, enforcing style consistency across large asset sets, and integrating AI-assisted workflows into game-ready art production pipelines. That accumulated knowledge remains with the founders.
+Throughout the studio's operation, Dytomic built **deep practical expertise using AI to streamline art delivery**. This covered accelerating concept iteration, enforcing style consistency across large asset sets, and integrating AI-assisted workflows into game-ready art production pipelines. That accumulated knowledge remains with the founders.
 
 **If you're exploring AI-driven art pipelines for your studio, product, or team, reach out to Tommy or Mourad directly:**
 
-- [Tommy Roumanas](https://www.linkedin.com/in/tommy-roumanas) — Co-Founder, CEO
-- [Mourad Elsheraey](https://www.linkedin.com/in/mourad-elsheraey) — Co-Founder, CTO
+- [Mourad Elsheraey](https://www.linkedin.com/in/mourad-elsheraey), Co-Founder and CTO
+- [Tommy Roumanas](https://www.linkedin.com/in/tommy-roumanas), Co-Founder and CEO
 
 ## Why this profile exists
 
