@@ -47,6 +47,15 @@ The full product vision, story, and visual language lives in the [pro-web reposi
 
 Dytomic was co-founded by [Tommy Roumanas](https://www.linkedin.com/in/tommy-roumanas) (CEO) and [Mourad Elsheraey](https://www.linkedin.com/in/mourad-elsheraey) (CTO) alongside other founding members. Tommy drove strategic direction and operations from 2021 until the studio's closure. Mourad drove the technical direction from 2021 through early 2024. Full team credits are preserved on the [archive site](https://dytomic.github.io/#contributions).
 
+## Available Expertise
+
+Throughout the studio's operation, Dytomic built **deep practical expertise using AI to streamline art delivery** — accelerating concept iteration, enforcing style consistency across large asset sets, and integrating AI-assisted workflows into game-ready art production pipelines. That accumulated knowledge remains with the founders.
+
+**If you're exploring AI-driven art pipelines for your studio, product, or team, reach out to Tommy or Mourad directly:**
+
+- [Tommy Roumanas](https://www.linkedin.com/in/tommy-roumanas) — Co-Founder, CEO
+- [Mourad Elsheraey](https://www.linkedin.com/in/mourad-elsheraey) — Co-Founder, CTO
+
 ## Why this profile exists
 
 The Dytomic GitHub organization holds the public technical record of the studio's work. Everything here is archived, but the code, READMEs, the design language of Pirate Raids Online, and the engine research archive remain browsable. If you found this looking for the game, thank you for the curiosity.
